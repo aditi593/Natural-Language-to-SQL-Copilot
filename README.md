@@ -1,5 +1,3 @@
----
-
 ## 📸 Demo Screenshots
 
 ### 1️⃣ Model Benchmark Results
