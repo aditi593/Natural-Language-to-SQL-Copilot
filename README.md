@@ -4,6 +4,19 @@
 Natural Language-to-SQL Copilot helps users convert natural language questions into SQL queries, execute them on real databases, and interpret the results. It removes SQL as a barrier to insights using AI-driven query generation and analysis.
 
 Add demo in future
+## 📸 Demo Screenshots
+
+### 1️⃣ Model Benchmark Results
+Execution accuracy comparison of various models on the Spider test set:
+![Comparative Execution Accuracy](Screensho3.png)
+
+### 2️⃣ NL2SQL Query Assistant – Home Screen
+Main UI for entering natural language questions and retrieving SQL answers:
+![NL2SQL UI](Screenshot1.png)
+
+### 3️⃣ Sample Query Execution
+Example query showing generated SQL and the final answer:
+![Query Execution](Screenshot2.png)
 
 ---
 
@@ -133,19 +146,6 @@ Then open: [http://localhost:8501](http://localhost:8501)
    - Return a clean, formatted answer
 
 ---
-## 📸 Demo Screenshots
-
-### 1️⃣ Model Benchmark Results
-Execution accuracy comparison of various models on the Spider test set:
-![Comparative Execution Accuracy](Screensho3.png)
-
-### 2️⃣ NL2SQL Query Assistant – Home Screen
-Main UI for entering natural language questions and retrieving SQL answers:
-![NL2SQL UI](Screenshot1.png)
-
-### 3️⃣ Sample Query Execution
-Example query showing generated SQL and the final answer:
-![Query Execution](Screenshot2.png)
 
 ## 📝 Citation & Acknowledgements
 
