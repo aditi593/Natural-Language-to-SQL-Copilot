@@ -1,3 +1,18 @@
+---
+
+## 📸 Demo Screenshots
+
+### 1️⃣ Model Benchmark Results
+Execution accuracy comparison of various models on the Spider test set:
+![Comparative Execution Accuracy](Screensho3.png)
+
+### 2️⃣ NL2SQL Query Assistant – Home Screen
+Main UI for entering natural language questions and retrieving SQL answers:
+![NL2SQL UI](Screenshot1.png)
+
+### 3️⃣ Sample Query Execution
+Example query showing generated SQL and the final answer:
+![Query Execution](Screenshot2.png)
 
 # 🧠 Natural Language-to-SQL Copilot
 
