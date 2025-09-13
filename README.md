@@ -3,7 +3,7 @@
 
 Natural Language-to-SQL Copilot helps users convert natural language questions into SQL queries, execute them on real databases, and interpret the results. It removes SQL as a barrier to insights using AI-driven query generation and analysis.
 
-Add demo in future
+
 ## 📸 Demo Screenshots
 
 ### 1️⃣ Model Benchmark Results
