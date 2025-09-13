@@ -144,4 +144,6 @@ Then open: [http://localhost:8501](http://localhost:8501)
 
 ---
 
+## 🔗 Repo
 
+📁 GitHub: [https://github.com/Omkarthipparthi/NL2SQL/](https://github.com/Omkarthipparthi/NL2SQL/)
